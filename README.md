@@ -2,7 +2,7 @@
 > whoami
 mikkotimoharju
 > cat whatdoido
-All kinds of DevOps related stuff, Cloud Solutions and automatisation
+All kinds of DevOps related stuff, Cloud Solutions and automation
 ```
 
 
